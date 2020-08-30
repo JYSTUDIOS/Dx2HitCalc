@@ -183,6 +183,9 @@ export default {
       }, {
         skillName: '蛾摩拉的獄炎',
         skillHit: '0.9'
+      }, {
+        skillName: '猛烈射击',
+        skillHit: '0.85'
       }]
     }
   },
